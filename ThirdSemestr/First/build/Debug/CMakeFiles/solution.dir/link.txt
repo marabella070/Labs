@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -fsanitize=address -Wall -Wextra -Werror CMakeFiles/solution.dir/src/Time/Time.cpp.o CMakeFiles/solution.dir/src/main.cpp.o -o solution 
